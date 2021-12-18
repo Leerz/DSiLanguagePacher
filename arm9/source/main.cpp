@@ -315,7 +315,7 @@ int main(void) {
                                 patchList, patchResults, patchCount, 
                                 options) ;              
   
-	WaitForPowercord() ;
+	//WaitForPowercord() ; just keep it at least 50%
 	
   if (!WaitForKonami("Write to internal NAND\n"
                 "     CAUTION! Risk to brick!"))
