@@ -2,6 +2,7 @@
 
 # ![Icon](icon.bmp "Icon") DSi Language Patcher
 
+DSI Language Patcher MOD - removed the AC check - All credits to works done by DP and many others. LRZ
 The DSi Language patcher is a small tool, which runs on your DSi (homebrew execution required) and create a copy of your original app launcher on the device root as "Launcher.dsi" and applies some patches to it, so it allows the use of other languages than available in your region.
 
 ### Related work
